@@ -8,6 +8,8 @@ Algorithm which displays view of device camera works in the following steps:
 
 ## How it works?
 
+![Alt Text](https://media.giphy.com/media/0Npk9bYtbOLMHy4E4Y/giphy.gif)
+
 ## Tool
 PyCharm
 
